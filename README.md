@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - ipa-pgothic-fonts 
+# ELS - Enterprise Linux/EuroLinux Sources - ipa-pgothic-fonts
+ 
 ## Usage:
   Checkout branch or tag.
